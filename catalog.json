@@ -1,0 +1,506 @@
+[
+    {
+        "id":  "3d-jack-portfolio-hero",
+        "title":  "3D Jack Portfolio",
+        "category":  "Portfolio",
+        "type":  "hero",
+        "page_type":  "landing",
+        "is_free":  true
+    },
+    {
+        "id":  "prisma-landing",
+        "title":  "Prisma Creative Studio",
+        "category":  "Landing Page",
+        "type":  "hero",
+        "page_type":  "landing",
+        "is_free":  true
+    },
+    {
+        "id":  "velorah-hero",
+        "title":  "Velorah",
+        "category":  "Agency",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "aetheris-voyage-hero",
+        "title":  "Aetheris Voyage",
+        "category":  "Hero Section",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "vex-ventures-hero",
+        "title":  "VEX Ventures",
+        "category":  "Hero Section",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "skyelite-hero",
+        "title":  "SkyElite Private Jets",
+        "category":  "Landing Page",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "modern-agency",
+        "title":  "Modern Agency",
+        "category":  "Agency",
+        "type":  "hero",
+        "page_type":  "landing",
+        "is_free":  true
+    },
+    {
+        "id":  "aethera-hero",
+        "title":  "Aethera Studio",
+        "category":  "Hero Section",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "asme-hero",
+        "title":  "Asme",
+        "category":  "Hero Section",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "innovation-landing",
+        "title":  "Innovation",
+        "category":  "Landing Page",
+        "type":  "hero",
+        "page_type":  "landing",
+        "is_free":  true
+    },
+    {
+        "id":  "orbis-nft-landing",
+        "title":  "Orbis NFT",
+        "category":  "Landing Page",
+        "type":  "hero",
+        "page_type":  "landing",
+        "is_free":  true
+    },
+    {
+        "id":  "portfolio-cosmic-hero",
+        "title":  "Portfolio Cosmic",
+        "category":  "Portfolio",
+        "type":  "hero",
+        "page_type":  "landing",
+        "is_free":  true
+    },
+    {
+        "id":  "securify-hero",
+        "title":  "Securify Data Security",
+        "category":  "SaaS",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "portal-hero",
+        "title":  "Portal",
+        "category":  "Hero Section",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "celestia-hero",
+        "title":  "Celestia",
+        "category":  "Hero Section",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "mindloop-landing",
+        "title":  "Mindloop Landing",
+        "category":  "Landing Page",
+        "type":  "hero",
+        "page_type":  "landing",
+        "is_free":  true
+    },
+    {
+        "id":  "rivr-hero",
+        "title":  "RIVR",
+        "category":  "Hero Section",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "vortex-studio-hero",
+        "title":  "AI Designer Portfolio",
+        "category":  "Landing Page",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "codenest-hero",
+        "title":  "CodeNest Coding Platform",
+        "category":  "Landing Page",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "power-ai-hero",
+        "title":  "Power AI",
+        "category":  "Hero Section",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "bloom-ai-hero",
+        "title":  "Bloom AI",
+        "category":  "Hero Section",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "luminex-hero",
+        "title":  "Luminex",
+        "category":  "Hero Section",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "sentinel-ai-hero",
+        "title":  "Sentinel AI",
+        "category":  "Hero Section",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "designpro-hero",
+        "title":  "DesignPro Academy",
+        "category":  "Hero Section",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "nexora-hero",
+        "title":  "Nexora Automation",
+        "category":  "SaaS",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "transform-data-hero",
+        "title":  "Transform Data",
+        "category":  "Hero Section",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "lumina-footer",
+        "title":  "Lumina",
+        "category":  "Footer Section",
+        "type":  "footer",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "halo-usd-landing",
+        "title":  "USD Halo",
+        "category":  "Landing Page",
+        "type":  "hero",
+        "page_type":  "landing",
+        "is_free":  true
+    },
+    {
+        "id":  "taskly-hero",
+        "title":  "Taskly",
+        "category":  "Hero Section",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "stellar-ai-hero",
+        "title":  "Stellar AI",
+        "category":  "Hero Section",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "datacore-booking-hero",
+        "title":  "Datacore Booking",
+        "category":  "SaaS",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "convix-software-hero",
+        "title":  "SAAS Software",
+        "category":  "SaaS",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "neuralyn-hero",
+        "title":  "Neuralyn",
+        "category":  "SaaS",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "digitwist-hero",
+        "title":  "Digitwist AI Builder",
+        "category":  "SaaS",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "dot-hero",
+        "title":  "Dot",
+        "category":  "Hero Section",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "design-rocket-email-hero",
+        "title":  "Email Marketing",
+        "category":  "Email Marketing",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "duolingo-styleguide-hero",
+        "title":  "Duolingo Styleguide",
+        "category":  "Hero Section",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "price-calculator",
+        "title":  "Price Calculator",
+        "category":  "SaaS",
+        "type":  "pricing",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "glow-features",
+        "title":  "Glow Features",
+        "category":  "Features Section",
+        "type":  "features",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "digital-epoch-hero",
+        "title":  "Digital Epoch",
+        "category":  "Hero Section",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "kresna-footer",
+        "title":  "Kresna Footer",
+        "category":  "Footer Section",
+        "type":  "footer",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "vize-footer",
+        "title":  "Vize Footer",
+        "category":  "Footer Section",
+        "type":  "footer",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "haul-footer",
+        "title":  "HAUL!",
+        "category":  "Footer Section",
+        "type":  "footer",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "wanderful-hero",
+        "title":  "Wanderful Hero",
+        "category":  "Travel",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "faq-cta",
+        "title":  "FAQ CTA",
+        "category":  "CTA",
+        "type":  "cta",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "retro-futurist",
+        "title":  "Retro-Futurist",
+        "category":  "Hero",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "vaultshield",
+        "title":  "VaultShield",
+        "category":  "Hero",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "no-code-waitlist",
+        "title":  "No-Code Waitlist",
+        "category":  "Waitlist",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "visual-hero",
+        "title":  "Visual Hero",
+        "category":  "Hero",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "mythic-naturecore",
+        "title":  "Mythic Naturecore",
+        "category":  "landing page",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "ai-workflow",
+        "title":  "AI Workflow Hero",
+        "category":  "Hero",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "email-landing-page",
+        "title":  "Email Landing Page",
+        "category":  "Landing page",
+        "type":  "landing",
+        "page_type":  "landing",
+        "is_free":  true
+    },
+    {
+        "id":  "aurora-onboard",
+        "title":  "Aurora Onboard",
+        "category":  "Signup",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "max-reed-portfolio",
+        "title":  "Max Reed Portfolio",
+        "category":  "Features",
+        "type":  "features",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "creative-studio",
+        "title":  "Creative Studio",
+        "category":  "Agency",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "ai-image-generator-ui",
+        "title":  "AI Image Generator UI",
+        "category":  "AI",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "equilibrium",
+        "title":  "Equilibrium",
+        "category":  "Hero",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "blog-showcase",
+        "title":  "Blog Showcase",
+        "category":  "Blog",
+        "type":  "Blog",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "prosthetics-hero",
+        "title":  "Prosthetics Hero",
+        "category":  "Hero",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "404",
+        "title":  "Nexto 404",
+        "category":  "404",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "neo-museum",
+        "title":  "Neo Museum",
+        "category":  "Website",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "3d-collectible-hero",
+        "title":  "3D Collectible Hero",
+        "category":  "3D Website",
+        "type":  "3D Website",
+        "page_type":  "hero",
+        "is_free":  true
+    },
+    {
+        "id":  "cybersecurity-hero",
+        "title":  "Cybersecurity Hero",
+        "category":  "Hero",
+        "type":  "hero",
+        "page_type":  "hero",
+        "is_free":  true
+    }
+]
