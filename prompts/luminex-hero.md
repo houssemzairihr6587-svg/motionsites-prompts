@@ -1,0 +1,12 @@
+# Luminex
+
+**Category:** Hero Section
+**Type:** hero
+**Slug:** luminex-hero
+
+---
+
+## Prompt
+
+`````nCreate a modern React landing page with a full-screen HLS video background, glassmorphic navigation header, and hero content positioned in the bottom-left corner.
+`````
